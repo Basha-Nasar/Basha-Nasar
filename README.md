@@ -2,6 +2,7 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/Basha-Nasar?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Basha-Nasar?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Basha-Nasar&color=blueviolet)
 
 Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** at **Izar Solutions & Services**, with over **8 years** of experience architecting and delivering robust backend systems.
 
@@ -12,7 +13,17 @@ Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Varnish](https://img.shields.io/badge/-Varnish-1D1D1D?style=flat&logo=varnish&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=Basha-Nasar&color=blueviolet)
+![Lumen](https://img.shields.io/badge/-Lumen-E74430?style=flat&logo=laravel&logoColor=white)
+![Yii2](https://img.shields.io/badge/-Yii2-83C12E?style=flat&logo=yii&logoColor=white)
+![Systemd](https://img.shields.io/badge/-Systemd-233C7B?style=flat&logo=linux&logoColor=white)
+![PHP-FPM](https://img.shields.io/badge/-PHP--FPM-8892BE?style=flat&logo=php&logoColor=white)
+![Log Analysis](https://img.shields.io/badge/-Log%20Analysis-4B8BBE?style=flat&logo=logstash&logoColor=white)
+![Root Cause Debugging](https://img.shields.io/badge/-Root%20Cause%20Debugging-FF6F00?style=flat&logo=bugatti&logoColor=white)
+![Service Permissions](https://img.shields.io/badge/-Service%20Permissions-007ACC?style=flat&logo=lock&logoColor=white)
+![Reverse Proxy](https://img.shields.io/badge/-Reverse%20Proxy-00BFFF?style=flat&logo=nginx&logoColor=white)
+![Cache Layer](https://img.shields.io/badge/-Cache%20Layer-FFB300?style=flat&logo=redis&logoColor=white)
+![Technical Reviews](https://img.shields.io/badge/-Technical%20Reviews-6A1B9A?style=flat&logo=github&logoColor=white)
+![Mentorship](https://img.shields.io/badge/-Mentorship-00C853?style=flat&logo=people&logoColor=white)
 
 ---
 
