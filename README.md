@@ -5,6 +5,15 @@
 
 Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** at **Izar Solutions & Services**, with over **8 years** of experience architecting and delivering robust backend systems.
 
+## 🧰 Tech Stack
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Varnish](https://img.shields.io/badge/-Varnish-1D1D1D?style=flat&logo=varnish&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=Basha-Nasar&color=blueviolet)
+
 ---
 
 ### 📸 Beyond Code
@@ -48,21 +57,6 @@ Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basha-Nasar&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Basha-Nasar&theme=radical)
-
-
-## 🧰 Tech Stack
-
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
-
-![Varnish](https://img.shields.io/badge/-Varnish-1D1D1D?style=flat&logo=varnish&logoColor=white)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Basha-Nasar&color=blueviolet)
 
 
 ---
