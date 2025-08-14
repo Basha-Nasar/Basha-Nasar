@@ -27,8 +27,11 @@ Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** 
 ---
 
 ![Nasar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basha-Nasar&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basha-Nasar&layout=compact&theme=radical)
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Basha-Nasar&theme=github-compact)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Basha-Nasar&theme=radical)
 
 
