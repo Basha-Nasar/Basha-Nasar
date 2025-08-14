@@ -1,5 +1,7 @@
 ## 👋 Hello, I'm Nasar Basha
+
 ![GitHub stars](https://img.shields.io/github/stars/Basha-Nasar?style=social)
+
 Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** at **Izar Solutions & Services**, with over **8 years** of experience architecting and delivering robust backend systems.
 
 ---
