@@ -3,10 +3,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/Basha-Nasar?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/Basha-Nasar?style=social)
 
-
-![Nasar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basha-Nasar&show_icons=true&theme=radical)
-
-
 Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** at **Izar Solutions & Services**, with over **8 years** of experience architecting and delivering robust backend systems.
 
 ---
@@ -27,6 +23,14 @@ Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** 
 - 🔐 **Security & Permissions**: Runtime directory alignment, secure service orchestration  
 - 📦 **Dev Tools**: Git, Composer, Docker, CI/CD pipelines  
 - 🎯 **Frontend Integration**: Blade, Livewire, Inertia.js, Vue.js
+
+---
+
+![Nasar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Basha-Nasar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basha-Nasar&layout=compact&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Basha-Nasar&theme=github-compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Basha-Nasar&theme=radical)
+
 
 ---
 
