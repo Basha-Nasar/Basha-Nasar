@@ -4,6 +4,8 @@ Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** 
 
 ---
 
+https://img.shields.io/github/stars/Basha-Nasar
+
 ### 💼 Current Role
 
 - 🧑‍💻 **Senior PHP Developer & Team Lead**  
