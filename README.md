@@ -1,30 +1,52 @@
-## 👋 Hi there, I'm Nasar Basha
+## 👋 Hello, I'm Nasar Basha
 
-Welcome to my GitHub! I'm an experienced **PHP backend developer** with over **8 years** of hands-on expertise in building scalable, maintainable, and high-performance web applications.
-
----
-
-### 💻 Tech Stack & Specialties
-
-- ⚙️ **Frameworks**: Yii2, Laravel, Lumen  
-- 🧠 **Backend Architecture**: RESTful APIs, service orchestration, caching strategies  
-- 🔍 **Debugging & Optimization**: Deep log analysis, root-cause resolution, performance tuning  
-- 🛠️ **Infrastructure**: Linux server management, Nginx, Varnish, PHP-FPM, systemd  
-- 🔐 **Security & Permissions**: Runtime directory alignment, secure service operation  
-- 📦 **DevOps Practices**: Config synthesis, multi-service deployments, CI/CD readiness
+Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** at **Izar Solutions & Services**, with over **8 years** of experience architecting and delivering robust backend systems.
 
 ---
 
-### 🌍 About Me
+### 💼 Current Role
 
-- 🏠 Based in **Kuwait**, originally from **India** 🇮🇳  
-- 📸 Passionate **photographer** — capturing moments when I'm not debugging code  
-- 🤝 Collaborative by nature — I value transparency, clarity, and clean architecture  
-- 📈 Always learning — exploring new backend patterns and infrastructure tools
+- 🧑‍💻 **Senior PHP Developer & Team Lead**  
+- 🏢 **Izar Solutions & Services** — Kuwait  
+- 👥 Leading a team of backend engineers, mentoring peers, and driving scalable architecture decisions
 
 ---
 
-### 📫 Let's Connect
+### 🧠 Tech Stack & Expertise
+
+- ⚙️ **Frameworks**: Yii2, Laravel, FilamentPHP, Livewire, Inertia.js  
+- 🧩 **Architecture**: RESTful APIs, modular service layers, caching, queueing  
+- 🛠️ **Infrastructure**: Linux, Nginx, Varnish, PHP-FPM, systemd  
+- 🔐 **Security & Permissions**: Runtime directory alignment, secure service orchestration  
+- 📦 **Dev Tools**: Git, Composer, Docker, CI/CD pipelines  
+- 🎯 **Frontend Integration**: Blade, Livewire, Inertia.js, Vue.js
+
+---
+
+### 🚀 Featured Projects
+
+| Project Name     | Description / Link |
+|------------------|--------------------|
+| **Zwara**        | [zwara.co](https://zwara.co/en) – E-commerce platform for curated experiences |
+| **Wishlist**     | [thewishlist.com](https://thewishlist.com/en/home) – Gifting and wishlist management |
+| **Riva Fashion** | [rivafashion.com](https://www.rivafashion.com/) – Fashion retail platform |
+| **MyEmprove**    | [myemprove.com](https://web.myemprove.com/home) – Personal development & coaching |
+| **MawqifTech**   | [mawqiftech.com](https://www.mawqiftech.com/) – Smart parking solutions |
+| **Sikka App**    | [Google Play](https://play.google.com/store/apps/details?id=sikka.kw&hl=en) – Mobile app for financial services |
+| **Rima Shaar**   | [rimashaar.com](https://rimashaar.com/) – Personal brand & portfolio site |
+
+---
+
+### 📸 Beyond Code
+
+- 🇮🇳 Indian by origin, working in 🇰🇼 Kuwait  
+- 📷 Passionate **photographer** — framing stories through the lens  
+- 🤝 Collaborative, transparent, and systems-oriented — I believe in clarity and clean architecture  
+- 🧭 Always exploring — from backend patterns to creative expression
+
+---
+
+### 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 - 📷 [Instagram](https://www.instagram.com/your-photography-handle)  
@@ -32,11 +54,5 @@ Welcome to my GitHub! I'm an experienced **PHP backend developer** with over **8
 
 ---
 
-### ⚡ Fun Fact
-
-I find the same satisfaction in a perfectly exposed photo as I do in a clean, root-cause fix to a multi-layered service failure. Precision, patience, and perspective — in code and in life.
-
----
-
-> _“Code is poetry when it’s written with clarity and purpose.”_
+> _“Architecture is the art of making complexity invisible. I turn chaos into clarity — one service layer at a time.”_
 
