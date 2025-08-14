@@ -7,6 +7,23 @@ Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** 
 
 ---
 
+### 📸 Beyond Code
+
+- 🇮🇳 Indian by origin, working in 🇰🇼 Kuwait  
+- 📷 Passionate **photographer** — framing stories through the lens  
+- 🤝 Collaborative, transparent, and systems-oriented — I believe in clarity and clean architecture  
+- 🧭 Always exploring — from backend patterns to creative expression
+
+---
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 📷 [Instagram](https://www.instagram.com/your-photography-handle)  
+- ✉️ Email: your.email@example.com
+
+---
+
 ### 💼 Current Role
 
 - 🧑‍💻 **Senior PHP Developer & Team Lead**  
@@ -30,9 +47,22 @@ Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Basha-Nasar&layout=compact&theme=radical)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Basha-Nasar&theme=github-compact)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Basha-Nasar&theme=radical)
+
+
+## 🧰 Tech Stack
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+![Varnish](https://img.shields.io/badge/-Varnish-1D1D1D?style=flat&logo=varnish&logoColor=white)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Basha-Nasar&color=blueviolet)
 
 
 ---
@@ -48,23 +78,6 @@ Welcome to my GitHub! I'm a seasoned **Senior PHP Developer** and **Team Lead** 
 | **MawqifTech**   | [mawqiftech.com](https://www.mawqiftech.com/) – Smart parking solutions |
 | **Sikka App**    | [Google Play](https://play.google.com/store/apps/details?id=sikka.kw&hl=en) – Mobile app for financial services |
 | **Rima Shaar**   | [rimashaar.com](https://rimashaar.com/) – Personal brand & portfolio site |
-
----
-
-### 📸 Beyond Code
-
-- 🇮🇳 Indian by origin, working in 🇰🇼 Kuwait  
-- 📷 Passionate **photographer** — framing stories through the lens  
-- 🤝 Collaborative, transparent, and systems-oriented — I believe in clarity and clean architecture  
-- 🧭 Always exploring — from backend patterns to creative expression
-
----
-
-### 📫 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📷 [Instagram](https://www.instagram.com/your-photography-handle)  
-- ✉️ Email: your.email@example.com
 
 ---
 
